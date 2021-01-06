@@ -1,0 +1,13 @@
+@import "../../variables.scss";
+.search {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	margin: $bdu * 3 $bdu;
+}
+
+input {
+	padding: $bdu $bdu * 2;
+	outline: none;
+	text-align: center;
+}
